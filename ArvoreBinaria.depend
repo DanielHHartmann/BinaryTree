@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698056578 source:c:\users\danie\desktop\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1698056808 c:\users\danie\desktop\arvorebinaria\main.h
+	<Windows.h>
+	<unistd.h>
+
